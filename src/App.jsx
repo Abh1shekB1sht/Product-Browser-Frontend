@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import "./App.css";
 
-const API_BASE_URL = "https://product-browser-backend.vercel.app";
+const API_BASE_URL = "https://product-browser-backend.vercel.app/";
 const CATEGORIES = [
   "Electronics",
   "Books",
